@@ -1,0 +1,4 @@
+# gitignores
+
+.env
+setup.sh
